@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Welcome to ServerOK WordPress Services</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
