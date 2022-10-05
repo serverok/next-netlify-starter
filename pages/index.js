@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -13,7 +14,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <Link href="https://serverok.in">ServerOk.in</Link><br/>
+          <Link href="/services">Services</Link>
         </p>
       </main>
 
