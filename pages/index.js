@@ -15,7 +15,8 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">
           <Link href="https://serverok.in">ServerOk.in</Link><br/>
-          <Link href="/services">Services</Link>
+          <Link href="/services">Services</Link><br/>
+          <Link href="/contact">Contact</Link><br/>
         </p>
       </main>
 
