@@ -1,1 +1,1 @@
-/blog/:seo_name/amp/ /blog/:seo_nane/
+/blog/:slug/ /blog2/:slug/
