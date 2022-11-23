@@ -1,2 +1,2 @@
 /blog/:slug/ /blog2/:slug/
-/blog/:slug/amp/ /blog3/:slug/
+/blog/:slug/:amp/ /blog3/:amp/:slug/
