@@ -10,7 +10,6 @@
 /:slug/amp/ /:slug/
 /blog/:slug/amp/ /blog/:slug/
 /blog/:slug/feed/ /blog/:slug/
+/blog/:slug/atom/ /blog/:slug/
 /blog/:slug/feed/atom/ /blog/:slug/
 /blog/:slug/rss/ /blog/:slug/
-
-
