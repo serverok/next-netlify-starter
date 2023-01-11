@@ -8,6 +8,10 @@
 /blog/feed/atom/ /
 /blog/atom/ /
 /:slug/amp/ /:slug/
+/:slug/feed/ /:slug/
+/:slug/feed/atom/ /:slug/
+/:slug/rss/ /:slug/
+/:slug/atom/ /:slug/
 /blog/:slug/amp/ /blog/:slug/
 /blog/:slug/feed/ /blog/:slug/
 /blog/:slug/atom/ /blog/:slug/
