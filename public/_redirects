@@ -1,3 +1,8 @@
+/feed/ /
+/rss/ /
+/feed/atom/ /
+/atom/ /
+/wp-atom.php /
 /:slug/amp/ /:slug/
 /blog/:slug/amp/ /blog/:slug/
 /blog/:slug/feed/ /blog/:slug/
