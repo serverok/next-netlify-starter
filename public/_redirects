@@ -3,10 +3,6 @@
 /feed/atom/ /
 /atom/ /
 /wp-atom.php /
-/blog/feed/ /
-/blog/rss/ /
-/blog/feed/atom/ /
-/blog/atom/ /
 /:slug/amp/ /:slug/
 /:slug/feed/ /:slug/
 /:slug/feed/atom/ /:slug/
