@@ -17,3 +17,7 @@
 /category/:slug/rss/ /category/:slug/
 /category/:slug/feed/atom/ /category/:slug/
 /category/:slug/atom/ /category/:slug/
+/tag/:slug/feed/ /tag/:slug/
+/tag/:slug/feed/atom/ /tag/:slug/
+/tag/:slug/feed/rss/ /tag/:slug/
+/tag/:slug/atom/ /tag/:slug/
