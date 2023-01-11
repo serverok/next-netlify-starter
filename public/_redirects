@@ -13,3 +13,7 @@
 /blog/:slug/atom/ /blog/:slug/
 /blog/:slug/feed/atom/ /blog/:slug/
 /blog/:slug/rss/ /blog/:slug/
+/category/:slug/feed/ /category/:slug/
+/category/:slug/rss/ /category/:slug/
+/category/:slug/feed/atom/ /category/:slug/
+/category/:slug/atom/ /category/:slug/
