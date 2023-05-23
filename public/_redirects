@@ -21,7 +21,4 @@
 /tag/:slug/feed/atom/ /tag/:slug/
 /tag/:slug/feed/rss/ /tag/:slug/
 /tag/:slug/atom/ /tag/:slug/
-/blog/tim_video/how-to-visit-the-world’s-best-vacation-spots-while-you-trade-stocks-video /services?plain
-/blog/tim_video/how-to-visit-the-worlds-best-vacation-spots-while-you-trade-stocks-video /services?noappos
 /blog/tim_video/how-to-visit-the-world%e2%80%99s-best-vacation-spots-while-you-trade-stocks-video /services?unicode
-/blog/tim_video/how-to-visit-the-world%E2%80%99s-best-vacation-spots-while-you-trade-stocks-video /services?unicode2
