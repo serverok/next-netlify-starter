@@ -76,3 +76,4 @@
 /last-call-project-x-bonus/:splat	https://lp.stockstotrade.com/last-call-project-x-bonus/:splat	301
 /watchlist/:splat	https://lp.stockstotrade.com/watchlist/:splat	301
 /project-x:slug	https://lp.stockstotrade.com/project-x:slug	301
+/wp-content/uploads/:year/:month/:file.pdf https://content.stockstotrade.com/wp-content/uploads/:year/:month/:file.pdf
