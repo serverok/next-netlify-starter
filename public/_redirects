@@ -1,1 +1,1 @@
-/blog/amp/page/* /blog/ 302!
+/blog2/amp/page/:splat/ /blog/ 302!
