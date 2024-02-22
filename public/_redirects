@@ -6,3 +6,4 @@
 
 /store id=:id  /blog/:id  301
 
+/amp/ / 302
