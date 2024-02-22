@@ -1,9 +1,5 @@
-/?p=72985 /blog/you-can-do-this/ 301
-/?p=72989 /blog/do-this/ 301
+/?p=72985 /blog/you-can-do-this/ 301!
+/?p=72989 /blog/do-this/ 301!
 
-/ p=1  /blog/i-am-id-one/  301
-/ p=2  /blog/i-am-id-two/  301
-
-/store id=:id  /blog/:id  301
-
-/amp/ / 302
+/ p=72985 /blog/you-can-do-this/ 301!
+/ p=72989 /blog/do-this/ 301!
