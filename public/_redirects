@@ -3,3 +3,6 @@
 
 / p=1  /blog/i-am-id-one/  301
 / p=2  /blog/i-am-id-two/  301
+
+/store id=:id  /blog/:id  301
+
