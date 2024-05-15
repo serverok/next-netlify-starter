@@ -5,38 +5,58 @@
 [[plugins]]
   package = "netlify-plugin-cypress"
 
-
 [[headers]]
   for = "/*.png"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/*.svg"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/*.webp"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/*.gif"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/*.jpg"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/*.png"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/assets/*.webp"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/assets/*.svg"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/authorsPics/*.webp"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/images/icons/*.svg"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/_nuxt/*.svg"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
