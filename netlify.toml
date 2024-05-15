@@ -7,6 +7,36 @@
 
 
 [[headers]]
+  for = "/*.png"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/images/*.svg"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
   for = "/images/*.webp"
-  [headers.values]
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/images/*.gif"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/images/*.jpg"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/images/*.png"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/images/assets/*.webp"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/images/assets/*.svg"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/images/authorsPics/*.webp"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/images/icons/*.svg"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
+  for = "/_nuxt/*.svg"
+    [headers.values]
     Cache-Control = "public, max-age=604800"
