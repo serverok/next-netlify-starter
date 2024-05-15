@@ -6,9 +6,9 @@
   package = "netlify-plugin-cypress"
 
 [[headers]]
-  for = "/*.png"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/*.png"
+[headers.values]
+Cache-Control = "public, max-age=604800"
 
 [[headers]]
   for = "/images/*.svg"
