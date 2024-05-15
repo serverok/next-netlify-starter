@@ -8,55 +8,59 @@
 [[headers]]
 for = "/*.png"
 [headers.values]
-Cache-Control = "public, max-age=604800"
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/*.svg"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/*.svg"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/*.webp"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/*.webp"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/*.gif"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/*.gif"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/*.jpg"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/*.jpg"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/*.png"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/*.png"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/assets/*.webp"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/assets/*.webp"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/assets/*.svg"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/assets/*.svg"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/authorsPics/*.webp"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/authorsPics/*.webp"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/images/icons/*.svg"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/images/icons/*.svg"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
 [[headers]]
-  for = "/_nuxt/*.svg"
-    [headers.values]
-    Cache-Control = "public, max-age=604800"
+for = "/_nuxt/*.svg"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
 
+[[headers]]
+for = "/images/*"
+[headers.values]
+Cache-Control = "max-age=31536000, public"
