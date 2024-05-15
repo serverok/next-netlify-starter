@@ -8,7 +8,7 @@
 [[headers]]
 for = "/*.png"
 [headers.values]
-Cache-Control = "max-age=31536000, public"
+Cache-Control = "max-age=31536123, public"
 
 [[headers]]
 for = "/images/*.svg"
