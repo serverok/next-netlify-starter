@@ -68,3 +68,8 @@ for = "/images/*"
 [headers.values]
 Cache-Control = "max-age=31536000, public"
 
+[[redirects]]
+  from = "/_nuxt/*"
+  status = 410
+  force = false  # Important: don't force if file exists
+  conditions = {Status = "404"}  # Only apply if origin returns 404
